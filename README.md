@@ -2,8 +2,8 @@
  
 🎓 Engineering Student | 🛡️ DevSecOps Enthusiast | ☁️ Cloud Infrastructure Engineer
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/abd-elrahman-moh)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/abd-elrahman-moh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/abd-elrahman-mohamed-anter)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/abd-elrahman-mohamed-anter)
  
 ---
  
