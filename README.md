@@ -73,11 +73,8 @@ Final-year engineering student specializing in **Cloud Infrastructure, DevOps, a
 ### 🎯 DevOps Final Projects
 | Repository | Description | Tech |
 |------------|-------------|------|
-| [final-pro-1](https://github.com/abd-elrahman-mohamed-anter/final-pro-1) | Graduation project — Cloud component | Terraform, EKS, ZAP |
-| [final-project](https://github.com/abd-elrahman-mohamed-anter/final-project) | Graduation project — Full stack | TypeScript |
+| [final-pro-1](https://github.com/abd-elrahman-mohamed-anter/final-pro-1) | Graduation project — Cloud component | Terraform, EKS, ZAP | still working on
 | [final-project-depi](https://github.com/abd-elrahman-mohamed-anter/final-project-depi) | DEPI graduation project | HTML |
-| [depi-eks](https://github.com/abd-elrahman-mohamed-anter/depi-eks) | EKS infrastructure for DEPI | HCL/Terraform |
-| [DEPI](https://github.com/abd-elrahman-mohamed-anter/DEPI) | DEPI program project | - |
  
 ### ☸️ Kubernetes & GitOps
 | Repository | Description | Tech |
