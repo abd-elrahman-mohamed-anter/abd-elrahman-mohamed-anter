@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdelrahman Mohamed (Abdoo)
+# 👋 Hi, I'm Abdelrahman Mohamed 
  
 🎓 Engineering Student | 🛡️ DevSecOps Enthusiast | ☁️ Cloud Infrastructure Engineer
  
@@ -80,7 +80,7 @@ Terraform → AWS EKS → Kubernetes → Docker → OWASP ZAP → CloudWatch
  
 ## 📫 Connect with Me
  
-- 💼 **LinkedIn:** [Abdelrahman Mohamed](https://linkedin.com/in/abd-elrahman-moh)
+- 💼 **LinkedIn:** [Abdelrahman Mohamed](https://linkedin.com/in/abd-elrahman-mohamed-anter)
 - 📧 **Email:** Add your email here
  
 ---
