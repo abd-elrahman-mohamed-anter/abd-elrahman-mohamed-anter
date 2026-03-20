@@ -2,22 +2,23 @@
  
 🎓 Engineering Student | ☁️ Cloud & DevOps Engineer | 🛡️ DevSecOps Enthusiast
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/Abdelrahman-Mohamed)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/abd-elrahman-mohamed-anter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abd-elrahman-mohamed-anter)
+[![GitHub followers](https://img.shields.io/github/followers/abd-elrahman-mohamed-anter?style=flat&logo=github)](https://github.com/abd-elrahman-mohamed-anter)
  
 ---
  
 ## 🧠 About Me
  
-Final-year engineering student specializing in **Cloud Infrastructure, DevOps, and Security Automation**. I build real production-grade systems end-to-end — from containerization to full AWS deployments.
+Final-year engineering student specializing in **Cloud Infrastructure, DevOps, and Security Automation**. I build real production-grade systems end-to-end — from containerization to full AWS deployments with security integrated from day one.
  
-- 🔭 **Graduation Project:** Full DevOps pipeline with AWS EKS + Terraform + OWASP ZAP + CloudWatch
+- 🔭 **Graduation Project:** Full DevOps pipeline — AWS EKS + Terraform + OWASP ZAP + CloudWatch
 - ☁️ Hands-on with **AWS** (EKS, VPC, ALB, EBS, NAT Gateway, EC2, CloudWatch)
-- 🛡️ Integrating **OWASP ZAP** for automated DAST security scanning
+- 🛡️ **DevSecOps** — OWASP ZAP automated DAST scanning inside Kubernetes
 - ⚙️ Infrastructure as Code with **Terraform**
 - 📦 Container orchestration with **Kubernetes & Docker**
-- 🔄 CI/CD pipelines with **GitHub Actions & GitLab CI**
+- 🔄 CI/CD with **GitHub Actions, Jenkins & GitLab CI**
 - 📊 Monitoring with **Prometheus, Grafana & CloudWatch**
+- 🤖 Configuration management with **Ansible**
 - 🎯 Goal: **Senior DevOps / Cloud Engineer**
  
 ---
@@ -32,10 +33,11 @@ Final-year engineering student specializing in **Cloud Infrastructure, DevOps, a
  
 ### 🔄 CI/CD & GitOps
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
  
-### 📊 Monitoring
+### 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat&logo=amazonaws&logoColor=white)
@@ -49,96 +51,89 @@ Final-year engineering student specializing in **Cloud Infrastructure, DevOps, a
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
  
 ---
  
-## 🚀 Graduation Project
+## 🎓 Graduation Project
  
 > **TEAM #273 — Full DevOps Final Project**
-> Complete DevOps pipeline covering containerization, CI/CD, Kubernetes, GitOps, monitoring, and deployments on AWS EKS.
+> Complete DevOps pipeline: containerization → CI/CD → Kubernetes → GitOps → monitoring → AWS EKS.
  
-🔗 [View Project](https://github.com/abd-elrahman-mohamed-anter/final-project-depi)
+🔗 [final-project-depi](https://github.com/abd-elrahman-mohamed-anter/final-project-depi) | [final-pro-1](https://github.com/abd-elrahman-mohamed-anter/final-pro-1)
  
 **My contribution — Cloud Infrastructure & DevSecOps:**
-- ✅ AWS VPC with public/private subnets across 2 Availability Zones
-- ✅ NAT Gateway per AZ + Application Load Balancer (ALB)
-- ✅ Amazon EKS cluster with worker nodes in private subnets
-- ✅ Persistent storage via EBS gp3 + Kubernetes PVC
-- ✅ OWASP ZAP deployed inside the cluster for DAST scanning
-- ✅ Amazon CloudWatch Container Insights for monitoring
-- ✅ All infrastructure provisioned with Terraform (IaC)
+| Component | Details |
+|-----------|---------|
+| ☁️ AWS VPC | Public/private subnets across 2 Availability Zones |
+| 🔀 Networking | NAT Gateway per AZ + Application Load Balancer |
+| ☸️ Amazon EKS | Worker nodes in private subnets |
+| 💾 Storage | EBS gp3 + Kubernetes PVC (persistent) |
+| 🛡️ Security | OWASP ZAP DAST scanning inside cluster |
+| 📊 Monitoring | CloudWatch Container Insights |
+| ⚙️ IaC | 100% Terraform — reproducible infrastructure |
  
 ---
  
 ## 📁 All Projects
  
-### ☸️ Kubernetes Projects
+### 🎯 DevOps Final Projects
+| Repository | Description | Tech |
+|------------|-------------|------|
+| [final-pro-1](https://github.com/abd-elrahman-mohamed-anter/final-pro-1) | Graduation project — Cloud component | Terraform, EKS, ZAP |
+| [final-project](https://github.com/abd-elrahman-mohamed-anter/final-project) | Graduation project — Full stack | TypeScript |
+| [final-project-depi](https://github.com/abd-elrahman-mohamed-anter/final-project-depi) | DEPI graduation project | HTML |
+| [depi-eks](https://github.com/abd-elrahman-mohamed-anter/depi-eks) | EKS infrastructure for DEPI | HCL/Terraform |
+| [DEPI](https://github.com/abd-elrahman-mohamed-anter/DEPI) | DEPI program project | - |
  
-| Project | Description |
-|---------|-------------|
-| [ArgoCD + Prometheus + Grafana](https://github.com/abd-elrahman-mohamed-anter/all-argo-spring/tree/main/EKS_Terraform) | GitOps with ArgoCD on EKS + full monitoring stack |
-| [K8S + Spring + Monitoring](https://github.com/abd-elrahman-mohamed-anter/k8s-db-prometheus-grafana-local-.git) | Spring Boot on K8S with Prometheus & Grafana |
-| [EKS + Spring](https://github.com/abd-elrahman-mohamed-anter/spring-with-eks) | Spring Boot deployment on Amazon EKS |
-| [Minikube + Spring](https://github.com/abd-elrahman-mohamed-anter/minikube-spring-1) | Local K8S deployment with Minikube |
+### ☸️ Kubernetes & GitOps
+| Repository | Description | Tech |
+|------------|-------------|------|
+| [all-argo-spring](https://github.com/abd-elrahman-mohamed-anter/all-argo-spring/tree/main/EKS_Terraform) | ArgoCD GitOps + Prometheus + Grafana on EKS | CSS/HCL |
+| [k8s-argo](https://github.com/abd-elrahman-mohamed-anter/k8s-argo) | Kubernetes with ArgoCD | Shell |
+| [k8s-db-prometheus-grafana-local-](https://github.com/abd-elrahman-mohamed-anter/k8s-db-prometheus-grafana-local-) | K8S + DB + Prometheus + Grafana local | Shell |
+| [spring-with-eks](https://github.com/abd-elrahman-mohamed-anter/spring-with-eks) | Spring Boot deployment on Amazon EKS | - |
+| [minikube-spring-1](https://github.com/abd-elrahman-mohamed-anter/minikube-spring-1) | Local K8S with Minikube + Spring Boot | Shell |
  
-### 🏗️ Terraform Projects
+### 🏗️ Terraform & Infrastructure
+| Repository | Description | Tech |
+|------------|-------------|------|
+| [terraform-all-weedingweb](https://github.com/abd-elrahman-mohamed-anter/terraform-all-weedingweb) | Full AWS infrastructure for web app | HCL |
+| [terraform-with-aws-1](https://github.com/abd-elrahman-mohamed-anter/terraform-with-aws-1) | AWS infrastructure fundamentals | HCL |
+| [aws-demo1-ec2](https://github.com/abd-elrahman-mohamed-anter/aws-demo1-ec2) | Flask application on AWS EC2 | Python |
  
-| Project | Description |
-|---------|-------------|
-| [Terraform + CI/CD + GitLab](https://gitlab.com/abdoomohamed4567/cicd-tf) | Full CI/CD pipeline with Terraform on GitLab |
-| [Terraform AWS Wedding Web](https://github.com/abd-elrahman-mohamed-anter/terraform-all-weedingweb) | Full AWS infrastructure for web application |
-| [Terraform AWS Basics](https://github.com/abd-elrahman-mohamed-anter/terraform-with-aws-1) | AWS infrastructure with Terraform fundamentals |
+### 🔄 CI/CD Pipelines
+| Repository | Description | Tech |
+|------------|-------------|------|
+| [jenkins-spring](https://github.com/abd-elrahman-mohamed-anter/jenkins-spring/tree/main/.github/workflows) | Jenkins CI/CD + Spring Boot | CSS |
  
-### ☁️ AWS Projects
- 
-| Project | Description |
-|---------|-------------|
-| [AWS Flask + EC2](https://github.com/abd-elrahman-mohamed-anter/aws-demo1-ec2) | Flask application deployed on AWS EC2 |
- 
-### 🔄 CI/CD Projects
- 
-| Project | Description |
-|---------|-------------|
-| [GitHub Actions + Spring](https://github.com/abd-elrahman-mohamed-anter/jenkins-spring/tree/main/.github/workflows) | Automated CI/CD pipeline with GitHub Actions |
- 
-### 🤖 Ansible Projects
- 
-| Project | Description |
-|---------|-------------|
-| [Ansible Automation 2](https://github.com/abd-elrahman-mohamed-anter/ansible-2) | Advanced Ansible playbooks |
-| [Ansible Automation 1](https://github.com/abd-elrahman-mohamed-anter/ansible-1) | Ansible fundamentals and automation |
- 
-### 🐳 Docker Projects
- 
-| Project | Description |
-|---------|-------------|
-| [Docker 1](https://github.com/abd-elrahman-mohamed-anter/docker-1) | Docker basics |
-| [Docker 2 + Multi-stage](https://github.com/abd-elrahman-mohamed-anter/Docker-_1) | Multi-stage builds optimization |
-| [Docker 3](https://github.com/abd-elrahman-mohamed-anter/Docker--2) | Docker Compose & networking |
-| [Docker 4](https://github.com/abd-elrahman-mohamed-anter/docker-4) | Docker volumes & persistence |
-| [Docker 5 + Prometheus & Grafana](https://github.com/abd-elrahman-mohamed-anter/docker-5-update) | Containerized monitoring stack |
- 
-### 🌐 Web Server
- 
-| Project | Description |
-|---------|-------------|
-| [Nginx Config](https://github.com/abd-elrahman-mohamed-anter/my) | Nginx reverse proxy & configuration |
- 
----
+### 🐳 Docker & Containerization
+| Repository | Description | Tech |
+|------------|-------------|------|
+| [docker-5-update](https://github.com/abd-elrahman-mohamed-anter/docker-5-update) | Docker + Prometheus & Grafana monitoring | - |
+| [docker-4](https://github.com/abd-elrahman-mohamed-anter/docker-4) | Docker volumes & persistence | - |
+| [Docker--2](https://github.com/abd-elrahman-mohamed-anter/Docker--2) | Docker Compose & networking | - |
+
+ ### 🤖 Ansible & Configuration Management
+| Repository | Description | Tech |
+|------------|-------------|------|
+| [ansible-2](https://github.com/abd-elrahman-mohamed-anter/ansible-2) | Advanced Ansible playbooks | - |
+| [ansible-1](https://github.com/abd-elrahman-mohamed-anter/ansible-1) | Ansible fundamentals | - |
+
  
 ## 📈 Currently Learning
  
 - Advanced Kubernetes (RBAC, Network Policies, HPA)
-- CI/CD best practices & GitOps
-- AWS Security (WAF, ACM, IAM Roles for Service Accounts)
+- AWS Security (WAF, ACM, IRSA)
 - System Design & Cloud Architecture
+- DevSecOps best practices
  
 ---
  
 ## 📫 Connect with Me
  
-- 💼 **LinkedIn:** [Abdelrahman Mohamed](https://linkedin.com/in/Abdelrahman-Mohamed)
-- 📧 **Email:** Add your email here
+- 💼 **LinkedIn:** [Abdelrahman Mohamed](https://linkedin.com/in/abd-elrahman-mohamed-anter)
+- 📧 **Email:** abdoomohamed4567@gmail.com
  
 ---
  
