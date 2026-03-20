@@ -11,7 +11,7 @@
  
 Final-year engineering student specializing in **Cloud Infrastructure, DevOps, and Security Automation**. I build real production-grade systems end-to-end — from containerization to full AWS deployments with security integrated from day one.
  
-- 🔭 **Graduation Project:** Full DevOps pipeline — AWS EKS + Terraform + OWASP ZAP + CloudWatch
+- 🔭 **DevSecOps Project:** Full DevOps pipeline — AWS EKS + Terraform + OWASP ZAP + CloudWatch
 - ☁️ Hands-on with **AWS** (EKS, VPC, ALB, EBS, NAT Gateway, EC2, CloudWatch)
 - 🛡️ **DevSecOps** — OWASP ZAP automated DAST scanning inside Kubernetes
 - ⚙️ Infrastructure as Code with **Terraform**
@@ -54,13 +54,6 @@ Final-year engineering student specializing in **Cloud Infrastructure, DevOps, a
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
  
 ---
- 
-## 🎓 Graduation Project
- 
-> **TEAM #273 — Full DevOps Final Project**
-> Complete DevOps pipeline: containerization → CI/CD → Kubernetes → GitOps → monitoring → AWS EKS.
- 
-🔗 [final-project-depi](https://github.com/abd-elrahman-mohamed-anter/final-project-depi) | [final-pro-1](https://github.com/abd-elrahman-mohamed-anter/final-pro-1)
  
 **My contribution — Cloud Infrastructure & DevSecOps:**
 | Component | Details |
