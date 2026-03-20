@@ -1,13 +1,90 @@
-<h1 align="center">Hi 👋, I'm Abdelrahaman Mohamed Anter</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🌱 I’m currently learning **DevSecOps**
-
-- 📫 How to reach me **abdoomohamed4567@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 👋 Hi, I'm Abdelrahman Mohamed (Abdoo)
+ 
+🎓 Engineering Student | 🛡️ DevSecOps Enthusiast | ☁️ Cloud Infrastructure Engineer
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/abd-elrahman-moh)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/abd-elrahman-moh)
+ 
+---
+ 
+## 🧠 About Me
+ 
+I'm a final-year engineering student with a strong passion for cloud infrastructure, DevOps, and security automation. I build real production-grade systems — not just tutorials.
+ 
+- 🔭 Currently working on: **Graduation Project — Cloud Infrastructure & DevSecOps**
+- ☁️ Building AWS infrastructure with **Terraform + EKS + ALB + NAT Gateway**
+- 🛡️ Integrating **OWASP ZAP** for automated security scanning inside Kubernetes
+- 📊 Monitoring clusters with **Amazon CloudWatch Container Insights**
+- 🎯 Goal: **Professional DevOps / Cloud Engineer**
+ 
+---
+ 
+## 🛠️ Tech Stack
+ 
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-EKS%20%7C%20VPC%20%7C%20ALB%20%7C%20EBS-orange?logo=amazonaws)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
+ 
+### 🛡️ Security
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-DAST-red)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Pipeline-darkred)
+ 
+### 🔧 Tools & OS
+![Linux](https://img.shields.io/badge/Linux-Administration-yellow?logo=linux)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git)
+![Bash](https://img.shields.io/badge/Bash-Scripting-green?logo=gnubash)
+ 
+---
+ 
+## 🚀 Graduation Project — Cloud Component
+ 
+> **Full-stack application with integrated security scanning deployed on AWS EKS**
+ 
+### What I Built:
+- ✅ **AWS VPC** with public/private subnets across 2 Availability Zones
+- ✅ **NAT Gateway** per AZ for high availability
+- ✅ **Application Load Balancer** (ALB) as single entry point
+- ✅ **Amazon EKS** cluster with worker nodes in private subnets
+- ✅ **Persistent storage** via EBS gp3 + Kubernetes PVC
+- ✅ **OWASP ZAP** deployed inside the cluster for DAST scanning
+- ✅ **Amazon CloudWatch** Container Insights for monitoring
+- ✅ **All infrastructure provisioned with Terraform** (IaC)
+ 
+### Stack:
+```
+Terraform → AWS EKS → Kubernetes → Docker → OWASP ZAP → CloudWatch
+```
+ 
+---
+ 
+## 📌 Other Projects
+ 
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🏗️ EKS + Terraform | Production-grade AWS infrastructure | Terraform, AWS, EKS |
+| 🛡️ DevSecOps Pipeline | ZAP security scanning in Kubernetes | OWASP ZAP, K8s |
+| 📊 CloudWatch Monitoring | Container Insights on EKS cluster | AWS CloudWatch |
+ 
+---
+ 
+## 📈 Currently Learning
+ 
+- Advanced Kubernetes (RBAC, Network Policies)
+- CI/CD pipelines (GitHub Actions)
+- AWS Security (WAF, ACM, IAM best practices)
+- System Design & Cloud Architecture
+ 
+---
+ 
+## 📫 Connect with Me
+ 
+- 💼 **LinkedIn:** [Abdelrahman Mohamed](https://linkedin.com/in/abd-elrahman-moh)
+- 📧 **Email:** Add your email here
+ 
+---
+ 
+> *"Infrastructure as Code means your infrastructure is as reliable as your code review process."*
+ 
+⭐ If you find my projects useful, give them a star!
