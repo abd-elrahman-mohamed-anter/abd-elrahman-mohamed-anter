@@ -3,7 +3,6 @@
 🎓 Engineering Student | ☁️ Cloud & DevOps Engineer | 🛡️ DevSecOps Enthusiast
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abd-elrahman-mohamed-anter)
-[![GitHub followers](https://img.shields.io/github/followers/abd-elrahman-mohamed-anter?style=flat&logo=github)](https://github.com/abd-elrahman-mohamed-anter)
  
 ---
  
