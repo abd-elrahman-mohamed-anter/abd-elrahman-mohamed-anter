@@ -93,7 +93,7 @@ Final-year engineering student specializing in **Cloud Infrastructure, DevOps, a
 ### 🔄 CI/CD Pipelines
 | Repository | Description | Tech |
 |------------|-------------|------|
-| [jenkins-spring](https://github.com/abd-elrahman-mohamed-anter/jenkins-spring/tree/main/.github/workflows) | Jenkins CI/CD + Spring Boot | CSS |
+| [GitHub Actions-spring](https://github.com/abd-elrahman-mohamed-anter/jenkins-spring/tree/main/.github/workflows) | Jenkins CI/CD + Spring Boot | CSS |
  
 ### 🐳 Docker & Containerization
 | Repository | Description | Tech |
