@@ -73,7 +73,7 @@ Final-year engineering student specializing in **Cloud Infrastructure, DevOps, a
 
 | Repository | Description | Tech |
 |------------|-------------|------|
-| [graduation-project](https://github.com/abd-elrahman-mohamed-anter/production-grade-eks-cluster-gp/tree/main) | Enterprise-grade DevSecOps platform that automates CI/CD, security scanning, monitoring, AI-powered risk assessment, vulnerability analysis, and self-healing infrastructure operations. | AWS, Kubernetes, Docker, Terraform, EKS, NGINX, Helm |
+| [graduation-project](https://github.com/abd-elrahman-mohamed-anter/production-grade-eks-cluster-gp/tree/main) |Web Application for Automated Vulnerability Scanning Based on two Cloud Architectures. | AWS, Kubernetes, Docker, Terraform, EKS, NGINX, Helm |
 | [final-project-depi](https://github.com/abd-elrahman-mohamed-anter/final-project-depi/tree/main/eks) | Cloud-native application deployment on AWS EKS using Infrastructure as Code and CI/CD automation. | AWS, EKS, Terraform, Docker, Kubernetes, GitHub Actions |
 
 ### ☸️ Kubernetes & GitOps
