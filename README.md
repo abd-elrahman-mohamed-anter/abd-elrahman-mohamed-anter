@@ -70,10 +70,9 @@ Final-year engineering student specializing in **Cloud Infrastructure, DevOps, a
 ## 📁 All Projects
  
 ### 🎯 DevOps Final Projects
-| Repository | Description | Tech |
-|------------|-------------|------|
+| [graduation-project][(YOUR_GITHUB_LINK](https://github.com/abd-elrahman-mohamed-anter/production-grade-eks-cluster-gp/tree/main)) | Enterprise-grade DevSecOps platform that automates CI/CD, security scanning, monitoring, AI-powered risk assessment, vulnerability analysis, and self-healing infrastructure operations. | AWS, Kubernetes, Docker, Terraform, GitHub Actions, Jenkins, ArgoCD, Prometheus, Grafana, Trivy, SonarQube |
 | [final-project-depi](https://github.com/abd-elrahman-mohamed-anter/final-project-depi/tree/main/eks) | DEPI graduation project | HTML |
- 
+
 ### ☸️ Kubernetes & GitOps
 | Repository | Description | Tech |
 |------------|-------------|------|
