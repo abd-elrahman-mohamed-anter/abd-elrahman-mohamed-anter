@@ -23,7 +23,7 @@ Final-year engineering student specializing in **Cloud Infrastructure, DevOps, a
 ---
  
 ## 🛠️ Tech Stack
- 
+
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
@@ -70,6 +70,13 @@ Final-year engineering student specializing in **Cloud Infrastructure, DevOps, a
 ## 📁 All Projects
 
 ### 🎯 DevOps Final Projects
+
+## ☁️ Azure Projects
+
+| Repository                                                                             | Description                                                                            | Tech                                                      |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| [AzureDEVOPS-GitOps](https://github.com/abd-elrahman-mohamed-anter/AzureDEVOPS-GitOps) | Azure DevOps CI/CD and GitOps deployment of a Voting App on AKS using ACR and Argo CD. | Azure DevOps, ACR, AKS, Kubernetes, Docker, Argo CD, Bash |
+
 
 | Repository | Description | Tech |
 |------------|-------------|------|
