@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdelrahman Mohamed 
  
-🎓 Engineering Student | ☁️ Cloud & DevOps Engineer | 🛡️ DevSecOps Enthusiast
+🎓 Engineering Graduate | ☁️ Cloud & DevOps Engineer | 🛡️ DevSecOps Enthusiast
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abd-elrahman-mohamed-anter)
  
