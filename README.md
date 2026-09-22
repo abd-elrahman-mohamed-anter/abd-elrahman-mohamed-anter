@@ -12,6 +12,7 @@ Final-year engineering student specializing in **Cloud Infrastructure, DevOps, a
  
 - 🔭 **DevSecOps Project:** Full DevOps pipeline — AWS EKS + Terraform + OWASP ZAP + CloudWatch
 - ☁️ Hands-on with **AWS** (EKS, VPC, ALB, EBS, NAT Gateway, EC2, CloudWatch)
+- ☁️ Hands-on with **Azure** (AKS, ACR, Azure DevOps, VNets, NSG, Application Gateway, Azure Storage)
 - 🛡️ **DevSecOps** — OWASP ZAP automated DAST scanning inside Kubernetes
 - ⚙️ Infrastructure as Code with **Terraform**
 - 📦 Container orchestration with **Kubernetes & Docker**
@@ -26,6 +27,8 @@ Final-year engineering student specializing in **Cloud Infrastructure, DevOps, a
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -69,13 +72,14 @@ Final-year engineering student specializing in **Cloud Infrastructure, DevOps, a
  
 ## 📁 All Projects
 
-### 🎯 DevOps Final Projects
 
-## ☁️ Azure Projects
+### ☁️ Azure Projects
 
 | Repository                                                                             | Description                                                                            | Tech                                                      |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | [AzureDEVOPS-GitOps](https://github.com/abd-elrahman-mohamed-anter/AzureDEVOPS-GitOps) | Azure DevOps CI/CD and GitOps deployment of a Voting App on AKS using ACR and Argo CD. | Azure DevOps, ACR, AKS, Kubernetes, Docker, Argo CD, Bash |
+
+### 🎯 DevOps Final Projects
 
 
 | Repository | Description | Tech |
